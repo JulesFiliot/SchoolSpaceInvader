@@ -1,0 +1,12 @@
+John:300
+Guts:3
+Julo:5
+Tony:500
+Tam:700
+Gilo:800
+Toto:950
+Pier:800
+Paul:400
+JUL:10300
+manu:2100
+Inès:2800
